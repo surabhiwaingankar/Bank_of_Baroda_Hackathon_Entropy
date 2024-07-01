@@ -1,4 +1,4 @@
-# Bank of Baroda Hackathon 2024 - Team Entropy
+# Bank of Baroda Hackathon 2024
 
 Welcome to the repository for our project submitted for the Bank of Baroda Hackathon 2024. Our team, Entropy, has developed a solution for Challenge 6: Personalized Content Generation. This README provides an overview of our project, including its features, architecture, and key differentiators.
 
@@ -32,6 +32,8 @@ We developed a system that provides personalized content with marketing of bank 
 - **Back-End**: Data processing with Python and Azure services for hosting and management.
 - **AI and NLP Services**: Azure Cognitive Services for NLP and Speech, AI bots for customer interactions.
 - **Scalability and Maintenance**: Uses Azure hosting and storage solutions, FastAPI for high concurrency, and regular updates and monitoring for security and issue resolution.
+- **Diagram**:
+![image](https://github.com/surabhiwaingankar/Bank_of_Baroda_Hackathon_Entropy/assets/128281067/e5cb2a85-633a-401c-aea5-e5e406001359)
 
 ## Key Differentiators
 - **Comprehensive Personalization**: Tailored for the banking sector with deep integration with customer data.
