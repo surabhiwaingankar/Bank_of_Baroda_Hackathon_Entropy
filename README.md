@@ -62,7 +62,7 @@ Our solution aims to enhance customer satisfaction and loyalty, improve operatio
 The Enterprise plan increases the number of concurrent requests and API calls our system can handle, ensuring scalability and performance.
 
 ## Team Members
-- **Soham Patil**
-- **Sujal Choudhari**
-- **Sagar Harsora**
-- **Surabhi Waingankar**
+- [**Soham Patil**](https://www.linkedin.com/in/soham-patil-a73ba3294/)
+- [**Sujal Choudhari**](https://www.linkedin.com/in/sujalchoudhari/)
+- [**Sagar Harsora**](https://www.linkedin.com/in/sagarrh/)
+- [**Surabhi Waingankar**](https://www.linkedin.com/in/surabhi-waingankar-898b9a26a/)
